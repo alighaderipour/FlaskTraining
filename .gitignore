@@ -1,0 +1,19 @@
+
+# Ignore IDE settings
+.idea/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.py[cod]
+# Ignore environment folders
+venv/
+env/
+
+
+**/__pycache__/
+
+
+# git rm -r --cached .idea
+# git rm -r --cached __pycache__
+# git rm -r --cached .idea __pycache__
