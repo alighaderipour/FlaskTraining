@@ -1,0 +1,9 @@
+POST http://localhost:5000/store
+Content-Type: application/json
+
+{
+  "name": "My Stores2"
+
+}
+
+

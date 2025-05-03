@@ -1,0 +1,9 @@
+POST http://localhost:5000/store/My Stores4/item
+Content-Type: application/json
+
+{
+  "name": "Window",
+  "price": 444
+}
+
+
